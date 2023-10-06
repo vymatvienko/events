@@ -41,8 +41,4 @@ export default class GamePlay {
       throw new Error('GamePlay not bind to DOM');
     }
   }
-
-  // addCellClickListener(callback) {
-  //   this.cellClickListeners.push(callback);
-  // }
 }
